@@ -1,0 +1,3 @@
+JavaBasics 30 Ivanov 2015
+PlSQL 80 Petrov 2016
+PostgreSQL 100 Sidorov 2017
